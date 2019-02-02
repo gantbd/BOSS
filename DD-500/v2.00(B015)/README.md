@@ -9,7 +9,7 @@ Full Patch Sets
   - 20-59: set 1
     - starting with Standard, working counter clockwise on dial to Tera Echo
     - sorted alphabetically within delay type
-    - compact addressing (no INIT slots wthin delay types with odd numbers)
+    - compact addressing (no INIT slots wthin delay types with odd counts)
   - 60-99: set 2 (duplicate of set 1)
 
 Individual Patches
