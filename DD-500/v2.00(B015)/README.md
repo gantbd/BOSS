@@ -1,7 +1,7 @@
 # v2.00 (B015)
 
 Full Patch Sets
-- `DD-500 Default.bel`: original configurations
+- `DD-500 Default.bel`: original configuration
 - `DD-500 Sorted.bel`: sorted configuration
   - A+B, C tap configuration
   - 01-19: user set
