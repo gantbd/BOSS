@@ -1,9 +1,14 @@
 # v2.00 (B015)
 
+<<<<<<< HEAD
 Patch Sets
 - `DD-500 Default.bel`: original configurations
 
 
+=======
+Full Patch Sets
+- `DD-500 Default.bel`: original configuration
+>>>>>>> ea1aa0f67263736b4cc98247ad958cdc88d1b542
 - `DD-500 Sorted.bel`: sorted configuration
   - A+B, C tap configuration
   - 01x-19x: user set
