@@ -2,7 +2,16 @@
 
 A repository to contain backups and patches for the xx-500 series of BOSS pedals.
 
-Files have a `.bel` extension, but appear to be standard JSON with the following schema:
+Repository follows the following basic file structure
+    - BOSS/
+      - <pedal name>/
+        - <config version>/
+          - <pedal name> Default.bel
+          - <pedal name> Sorted.bel
+      - MD-500/
+      - RV-500/
+
+Configuration files have a `.bel` extension, but appear to be standard JSON with the following schema:
 
     {
         "model": String,
